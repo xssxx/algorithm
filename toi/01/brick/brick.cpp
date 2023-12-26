@@ -1,3 +1,8 @@
+/**
+ * Time complexity: O(rows*cols)
+ * Space complexity: O(rows*cols + cols)
+ */
+
 #include <iostream>
 using namespace std;
 
